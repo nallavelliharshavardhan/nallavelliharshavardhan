@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshavardhan+Nallavelli;Embedded+Firmware+Engineer;Embedded+C+%7C+C%2B%2B+%7C+ARM7;Microcontrollers+%7C+IoT+%7C+Hardware+Interfacing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshavardhan+Nallavelli;Embedded+Firmware+Engineer;Embedded+C+%7C+C%2B%2B+%7C+ARM7" />
 </p>
 
 
