@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshavardhan+Nallavelli;Embedded+Firmware+Engineer;Embedded+C+%7C+C%2B%2B+%7C+ARM7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshavardhan+Nallavelli;Embedded+Developer;Embedded+C+%7C+C%2B%2B+%7C+ARM7;Bringing+Hardware+to+Life+with+Firmware..." />
 </p>
+
 
 
 
@@ -8,9 +9,10 @@
 
 
 <p align="center">
-  <b>Embedded Firmware Developer | ECE Graduate | Embedded Systems Enthusiast</b><br><br>
+  <b>Embedded Developer 📟 | ECE Graduate 🎓 | Embedded Systems Enthusiast 🤖</b><br><br>
   🔧 Firmware &nbsp; • &nbsp; 🧠 Embedded C/C++ &nbsp; • &nbsp; 🖥 Embedded Linux &nbsp; • &nbsp; ⚙️ ARM7 / Microcontrollers &nbsp; • &nbsp; 🔌 IoT & Hardware Interfacing
 </p>
+
 
 
 ---
