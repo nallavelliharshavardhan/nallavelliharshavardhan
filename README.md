@@ -56,6 +56,7 @@
 
 ## 🚀 Projects
 
+- 🚆 **MYIRCTC – Train Reservation System (C)** 
 - 💊 **Dose Guardian – Smart Medicine Reminder System**  
 - 🌱 **AI-Based Garden Monitoring Robot** – Embedded + IoT + Vision  
 - 🧏 **Speech to Braille Converter** – Assistive Embedded System  
